@@ -1,0 +1,2 @@
+# Gonirit-
+BSD2
